@@ -176,7 +176,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>zx.soft.navie.bayes.driver.NavieBayesDriver</mainClass>
+							<mainClass>zx.soft.crawler.driver.CrawlerDriver</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
